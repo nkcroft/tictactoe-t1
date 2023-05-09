@@ -2,7 +2,10 @@
 
 FE스터디 2주차
 
-## setup
+* <https://nkcroft.github.io/tictactoe-t1/>
+* <https://react.dev/learn/tutorial-tic-tac-toe>
+
+## Setup
 
 ### .editrconfig
 
@@ -48,6 +51,16 @@ extends: [
 ],
 ```
 
-#### rules
+#### Rules
 
 * `'import/no-absolute-path': 'off'`
+
+## Deployment
+
+* <https://pages.github.com/>
+
+### GitHub Actions
+
+* <https://github.com/JamesIves/github-pages-deploy-action>
+* <https://github.com/marketplace/actions/deploy-to-github-pages>
+
